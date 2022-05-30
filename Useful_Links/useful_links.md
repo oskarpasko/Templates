@@ -12,9 +12,6 @@ Website where You can customize your REAME files.<br />
 
 
 
-<br />
-<br />
-<br />
 ## Authors
 
 - [@oskarpasko](https://www.github.com/oskarpasko)
