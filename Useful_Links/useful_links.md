@@ -10,7 +10,7 @@ List of links which can be useful in some projects.
 
 
 
-##Choose Your License
+## Choose Your License
 Website where You can check which license choose for Your project.<br />
 [Choose Your License here](https://ufal.github.io/public-license-selector/)
 
